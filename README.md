@@ -12,7 +12,7 @@
 
 ## 📸 Screenshots & Showcase
 
-> **Note for Contributors**: Please save your screenshots in the `./docs/images/` folder using the exact filenames listed below.
+
 
 | Main Plan Screen | Tasks & To-Dos |
 | :---: | :---: |
