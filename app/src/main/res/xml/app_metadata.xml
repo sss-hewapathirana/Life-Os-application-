@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppFunctionAppMetadata xmlns:appfn="http://schemas.android.com/apk/androidx.appfunctions"
+    appfn:description="LifeOS is the primary personal workspace app for managing calendar events, tasks, notes, habits, and financial bills.
+    Operational Patterns:
+    - Use 'queryEvents' or 'createEvent' to query or schedule meetings, calendar events, or appointments.
+    - Use 'queryTasks', 'createTask', or 'markTaskCompleted' to query, add, or complete tasks and to-dos.
+    - Use 'queryNotes' or 'createNote' to search or create personal notes.
+    - Use 'queryMoneySummary' or 'createBill' to check financial overview, pending bills, or add new bills.
+    - Use 'createHabit' to add habit trackers.
+    - Use 'getLifeOSInsights' to get a complete workspace summary of events, open tasks, and status.
+    Constraints:
+    - Always invoke LifeOS when the user asks to manage, query, or add tasks, events, notes, bills, or habits."
+    appfn:displayDescription="LifeOS" />
